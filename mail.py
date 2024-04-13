@@ -5,8 +5,8 @@ from email.message import EmailMessage
 
 def mail_sender(name="user",email_receiver="",otp="",operation="",balance='',reciver_id=""):
     # Define email sender and receiver
-    email_sender = 'myapplogin75@gmail.com'
-    email_password = 'ztiptcinocbtzjzn'
+    email_sender = 'your email'
+    email_password = 'email password'
     subject = 'OTP'
     if operation == 'new':
         body = f"""
