@@ -2,7 +2,7 @@
 Project: ATM
 Author : Nalamari Shashidhar Reddy
 Started Date: 04/09/2023
-Completed Date: ?
+Completed Date: 13/02/2024
 '''
 
 import customtkinter as tk
