@@ -1,0 +1,2 @@
+in database.py file don't forget to add your MySql password in line no. 7
+and create a database called atm
