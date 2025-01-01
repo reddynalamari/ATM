@@ -1,16 +1,19 @@
 # ATM System
 
-This project is a command-line-based ATM (Automated Teller Machine) simulation implemented in Python. It allows users to perform basic banking operations such as checking their balance, depositing funds, and withdrawing funds.
+This project is a GUI ATM (Automated Teller Machine) simulation implemented in Python. It allows users to perform basic banking operations such as checking their balance, depositing funds, and withdrawing funds.
 
 ## Features
 
+- **Create Account**: Users can create their Account using mail id
 - **Check Balance**: View the current account balance.
 - **Deposit Funds**: Add money to your account.
 - **Withdraw Funds**: Withdraw money from your account, with validation to prevent overdrafts.
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12
+- [requirements](requirements.py)
+- [setup](setup.txt)
 
 ## Installation
 
@@ -66,5 +69,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-- **Nalamari Shashidhar Reddy**  
-  Passionate developer with expertise in Python and GUI application development.
+- **[Nalamari Shashidhar Reddy](https://github.com/reddynalamari)**
